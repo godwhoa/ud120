@@ -1,0 +1,18 @@
+➜ choose_your_own git:(master) ✗ python randomforest.py 
+Training time: 0.013 s
+('Score: ', 0.99199999999999999)
+Score time: 0.003 s
+0.992
+
+➜ choose_your_own git:(master) ✗ python adaboost.py 
+Training time: 0.079 s
+('Score: ', 0.996)
+Score time: 0.014 s
+0.996
+
+➜ choose_your_own git:(master) ✗ python knn.py
+Training time: 0.016 s
+('Score: ', 0.95599999999999996)
+Score time: 0.003 s
+0.956
+
